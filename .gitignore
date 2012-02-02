@@ -1,0 +1,9 @@
+*.pyc
+*.db
+*.zip
+*.log
+*.exe
+*.sql
+*.swp
+*.*~
+todo.txt
