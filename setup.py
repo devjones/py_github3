@@ -15,6 +15,6 @@ setup(
     packages=['github3'],
     license='LICENSE.txt',
     install_requires=[
-        "requests == 0.8.5",
+        "requests == 2.20.0",
     ],
 )
